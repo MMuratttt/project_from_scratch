@@ -1,6 +1,6 @@
 Feature:  Smartbear software link verification
   Agile Story:
- 
+
 
   Scenario:
     Given User is on smartbear link
